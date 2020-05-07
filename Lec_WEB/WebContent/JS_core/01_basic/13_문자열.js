@@ -86,7 +86,7 @@ console.log(`str2 = [${str2}]`);
 // split() : string -> array
 str3 = '2020-05-07';
 console.log(str3.split('-'))
-
+console.log(str3.split('-'))
 
 
 
